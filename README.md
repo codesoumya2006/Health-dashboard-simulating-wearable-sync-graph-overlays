@@ -1,6 +1,12 @@
 # 🩺 Health Dashboard – Simulated Wearable Sync + Graph Overlays
 
-A responsive, interactive health monitoring dashboard built with **HTML**,**css**,**JavaScript** simulating real-time synchronization of data from wearable devices. This project visualizes key health metrics through clean, animated graphs and overlays, ideal for prototyping or showcasing health tech interfaces.
+A responsive, interactive health monitoring dashboard built with **HTML**,**CSS**,**JavaScript** simulating real-time synchronization of data from wearable devices. This project visualizes key health metrics through clean, animated graphs and overlays, ideal for prototyping or showcasing health tech interfaces.
+
+---
+
+🌐 **Live Web App:** [https://your-health-dashboard-demo-link.com](https://your-health-dashboard-demo-link.com) 🚀
+
+---
 
 ## ⚙️ Key Features
 
@@ -24,8 +30,8 @@ A responsive, interactive health monitoring dashboard built with **HTML**,**css*
 
 ## 📦 Ideal Use Cases
 
-- Rapid prototyping of health dashboards
-- UI/UX exploration for wearable sync interfaces
+- Rapid prototyping of health dashboards  
+- UI/UX exploration for wearable sync interfaces  
 - Educational demos for data visualization with React + Chart.js
 
 ---
